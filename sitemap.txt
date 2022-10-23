@@ -1,1 +1,10 @@
 https://www.kellyelectricalcontracts.com/index.html
+https://www.kellyelectricalcontracts.com/_includes/aside.html
+https://www.kellyelectricalcontracts.com/_includes/call-to-action.html
+https://www.kellyelectricalcontracts.com/_includes/contact.html
+https://www.kellyelectricalcontracts.com/_includes/head.html
+https://www.kellyelectricalcontracts.com/_includes/header.html
+https://www.kellyelectricalcontracts.com/_includes/nav.html
+https://www.kellyelectricalcontracts.com/_includes/portfolio.html
+https://www.kellyelectricalcontracts.com/_includes/scripts.html
+https://www.kellyelectricalcontracts.com/_includes/services.html
