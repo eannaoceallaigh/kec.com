@@ -154,10 +154,10 @@ header {
     width: 100%;
     min-height: auto;
     @include background-cover;
-    background-position: center;
+    background-position: 0cm 2cm;
     background-image: url('../img/Kelly Electrical Logo 2.jpg');
     background-size: contain;
-    background-size: 1400px 500px;
+    // background-size: 1400px 500px;
     background-repeat: no-repeat;
     text-align: center;
     color: black;
@@ -166,7 +166,7 @@ header {
         text-align: center;
         padding: 100px 15px 100px;
         width: 100%;
-        margin-top: 300px;
+        // margin-top: 300px;
         .header-content-inner {
             h1 {
                 font-weight: 700;
@@ -178,10 +178,11 @@ header {
                 margin: 30px auto;
             }
             p {
+                margin-top: 100px;
                 font-weight: 300;
                 color: rgba(black, .7);
                 font-size: 16px;
-                margin-bottom: 50px;
+                // margin-bottom: 50px;
             }
         }
     }
@@ -195,12 +196,18 @@ header {
             transform: translateY(-50%);
             padding: 0 50px;
             .header-content-inner {
+                position: relative;
+                margin-top: 500px;
                 max-width: 1000px;
                 margin-left: auto;
                 margin-right: auto;
+                hr {
+                    margin-top: 10px;
+                }
                 p {
                     font-size: 18px;
                     max-width: 80%;
+                    margin-top: 20px;
                     margin-left: auto;
                     margin-right: auto;
                 }
