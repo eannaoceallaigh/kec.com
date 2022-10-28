@@ -10,7 +10,8 @@ body {
 
 hr {
     border-color: $theme-primary;
-    border-width: 3px;
+    z-index: -1;
+    border-width: 0;
     max-width: 50px;
 }
 
